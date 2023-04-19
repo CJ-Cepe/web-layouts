@@ -13,7 +13,7 @@ body {
 
 header {
     height: 10%;
-    background-color: #2f184b;
+    background-color: #244f26;
     display: flex;
     align-items: center;
 }
@@ -21,7 +21,7 @@ header {
 a {
     text-decoration: none;
     font-size: 50pt; 
-    color: #9b72cf;
+    color: #1efc1e;
     margin-left: 30px;
  }
 
@@ -33,22 +33,22 @@ main {
 .left {
     width: 20%;
     flex: 1 1 auto;
-    background-color: #532b88;
+    background-color: #256d1b;
 }
 
 .middle {
     flex: auto;
     width: 60%;
-    background-color: #9b72cf;
+    background-color: #149911;
 }
 
 .right {
     width: 20%;
     flex: 1 1 auto;
-    background-color: #532b88;
+    background-color: #256d1b;
 }
 
 footer {
     height: 10%;
-    background-color: #2f184b;
+    background-color: #244f26;
 }
